@@ -17,7 +17,7 @@ python generate_voxel_pointcloud.py
 - blender 3.0
 
 ### Usage
-Open `generate_24_images.blend` with blender 3.0, then run the code. Then you can found rendered 24 images in the `out` folder.
+Open `generate_24_images.blend` with blender 3.0, then run the code. Then, rendered 24 images can be found in the `out` folder.
 
 # Note
 The fully datasets can be download [here](https://www.moon-lab.tech/shrec22). Examlpe code and evaluation metrics can be found [here](https://github.com/yifanfeng97/OS-MN40-Example).
