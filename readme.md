@@ -1,6 +1,8 @@
 # Introduction
 In our paper "SHREC'22: Open-Set 3D Object Retrieval", we have released two datasets for open-set 3D object retrieval. The two datasets are generated based on the [Modelnet40](https://modelnet.cs.princeton.edu/) dataset. Here, we release the core code for multi-modal data generation including **Voxel Modality Generation**, **Pointcloud Modality Generation**, and **24 Images Modality Generation**.
 
+![intro](docs/graphical_abstract.jpg)
+
 # Settings for generating voxel and pointcloud modalities
 - python 3.8
 - open3d
